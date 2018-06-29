@@ -47,7 +47,7 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
 
         findViewById(R.id.textViewSignup).setOnClickListener(this);
         findViewById(R.id.buttonLogin).setOnClickListener(this);
-
+//        userLogin();
     }
 
     private void userLogin() {
